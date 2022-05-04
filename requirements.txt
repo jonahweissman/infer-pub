@@ -42,6 +42,8 @@ entrypoints==0.4
     # via
     #   jupyter-client
     #   nbconvert
+exchange-calendars==3.6.1
+    # via -r requirements.in
 executing==0.8.3
     # via stack-data
 fastjsonschema==2.15.3
@@ -105,6 +107,8 @@ jupyterlab-server==2.13.0
     # via jupyterlab
 kiwisolver==1.4.2
     # via matplotlib
+korean-lunar-calendar==0.2.1
+    # via exchange-calendars
 markupsafe==2.1.1
     # via
     #   jinja2
@@ -144,6 +148,7 @@ notebook-shim==0.1.0
 numpy==1.22.3
     # via
     #   -r requirements.in
+    #   exchange-calendars
     #   matplotlib
     #   pandas
     #   patsy
@@ -161,6 +166,7 @@ packaging==21.3
 pandas==1.4.2
     # via
     #   -r requirements.in
+    #   exchange-calendars
     #   statsmodels
 pandocfilters==1.5.0
     # via nbconvert
@@ -194,6 +200,8 @@ pygments==2.12.0
     # via
     #   ipython
     #   nbconvert
+pyluach==1.4.1
+    # via exchange-calendars
 pyparsing==3.0.8
     # via
     #   matplotlib
@@ -202,12 +210,14 @@ pyrsistent==0.18.1
     # via jsonschema
 python-dateutil==2.8.2
     # via
+    #   exchange-calendars
     #   jupyter-client
     #   matplotlib
     #   pandas
 pytz==2022.1
     # via
     #   babel
+    #   exchange-calendars
     #   pandas
 pyzmq==22.3.0
     # via
@@ -217,7 +227,9 @@ pyzmq==22.3.0
 requests==2.27.1
     # via jupyterlab-server
 scipy==1.8.0
-    # via statsmodels
+    # via
+    #   -r requirements.in
+    #   statsmodels
 send2trash==1.8.0
     # via
     #   jupyter-server
@@ -242,6 +254,8 @@ terminado==0.13.3
     #   notebook
 tinycss2==1.1.1
     # via nbconvert
+toolz==0.11.2
+    # via exchange-calendars
 tornado==6.1
     # via
     #   ipykernel

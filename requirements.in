@@ -3,3 +3,5 @@ pandas
 matplotlib
 statsmodels
 numpy
+exchange_calendars
+scipy
