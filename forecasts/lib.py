@@ -1,5 +1,10 @@
+from pathlib import Path
+
 import pandas as pd
 from statsmodels.tsa import stattools
+from scipy.stats import rv_continuous
+
+datadir = Path('..') / 'data'
 
 
 def adf_test(timeseries):
@@ -33,3 +38,11 @@ def kpss_test(timeseries):
     for key, value in kpsstest[3].items():
         kpss_output["Critical Value (%s)" % key] = value
     print(kpss_output)
+
+def boundary_probs(dist: rv_continuous, boundaries: list[int]):
+    forecast = {f"Less than ${boundaries[0]}": dist.cdf(boundaries[0])}
+    for low, high in zip(boundaries, boundaries[1:]):
+        forecast[f"More than or equal to ${low} but less than ${high}"] = dist.cdf(high) - dist.cdf(low)
+    forecast[f"More than or equal to ${boundaries[-1]}"] = 1 - dist.cdf(boundaries[-1])
+
+    return {k: f'{round(100*v)}%' for k, v in forecast.items()}
