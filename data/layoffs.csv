@@ -1,0 +1,1025 @@
+#,Company,Location,# Laid Off,Date,%,Industry
+1,Loft,Sao Paulo     N,384,7/5/2022,12%,Real Estate
+2,eToro,Tel Aviv     No,100,7/5/2022,6%,Finance
+3,Verbit,New York …,80,7/5/2022,10%,Data
+4,Outschool,SF Bay Area,31,7/5/2022,18%,Education
+5,Syte,Tel Aviv     No,13,7/5/2022,8%,Retail
+6,Lightricks,Jerusalem,80,7/4/2022,12%,Consumer
+7,Sendle,Sydney     Non,27,7/4/2022,12%,Logistics
+8,Airtasker,Sydney     Non,,7/4/2022,,Consumer
+9,Celsius,New York …,150,7/3/2022,25%,Crypto
+10,LetsGetChecked,New York …,,7/2/2022,,Healthcare
+11,Perx Health,Sydney     Non,,7/2/2022,,Healthcare
+12,Zepto,Brisbane     N,,7/2/2022,10%,Finance
+13,WanderJaunt,SF Bay Area,85,7/1/2022,100%,Travel
+14,Canoo,Los Angeles,58,7/1/2022,6%,Transport…
+15,Teleport,SF Bay Area,,7/1/2022,,Infrastruc…
+16,Enjoy,SF Bay Area,400,6/30/2022,18%,Retail
+17,Crejo.Fun,Bengaluru,170,6/30/2022,100%,Education
+18,Nate,New York …,30,6/30/2022,20%,Retail
+19,Snyk,Boston,30,6/30/2022,,Security
+20,Stream,Boulder,20,6/30/2022,12%,Product
+21,Finleap Connect,Hamburg     N,14,6/30/2022,10%,Finance
+22,Abra,SF Bay Area,12,6/30/2022,5%,Crypto
+23,Sundae,SF Bay Area,,6/30/2022,15%,Real Estate
+,,,,,,
+24,Toppr,Mumbai     No,350,6/29/2022,,Education
+25,Unity,SF Bay Area,200,6/29/2022,4%,Other
+26,Niantic,SF Bay Area,85,6/29/2022,8%,Consumer
+27,AvantStay,Los Angeles,80,6/29/2022,,Travel
+28,Qumulo,Seattle,80,6/29/2022,19%,Data
+29,Clutch,Toronto     No,76,6/29/2022,22%,Transport…
+30,Parallel Wireless,Nashua,60,6/29/2022,,Infrastruc…
+31,Oye Rickshaw,New Delhi     N,40,6/29/2022,20%,Transport…
+32,Baton,SF Bay Area,16,6/29/2022,25%,Transport…
+33,Substack,SF Bay Area,13,6/29/2022,14%,Media
+34,Degreed,SF Bay Area,,6/29/2022,15%,Education
+35,HomeLight,SF Bay Area,,6/29/2022,19%,Real Estate
+36,Modsy,SF Bay Area,,6/29/2022,,Retail
+37,Volt Bank,Sydney     Non,,6/29/2022,100%,Finance
+38,Huobi,Beijing     Non,300,6/28/2022,30%,Crypto
+39,WhiteHat Jr,Mumbai     No,300,6/28/2022,,Education
+40,StockX,Detroit,120,6/28/2022,8%,Retail
+41,Vezeeta,Dubai     Non-,50,6/28/2022,10%,Healthcare
+42,Bright Machines,SF Bay Area,30,6/28/2022,8%,Data
+43,HealthMatch,Sydney     Non,18,6/28/2022,50%,Healthcare
+44,Booktopia,Sydney     Non,,6/28/2022,,Retail
+45,Nova Benefits,Bengaluru,,6/28/2022,30%,Healthcare
+46,Una Brands,Singapore,,6/28/2022,10%,Retail
+47,AppLovin,SF Bay Area,300,6/27/2022,12%,Marketing
+48,UiPath,New York …,210,6/27/2022,5%,Data
+,,,,,,
+49,Udaan,Bengaluru,180,6/27/2022,4%,Retail
+50,Cue,San Diego,170,6/27/2022,,Healthcare
+51,Banxa,Melbourne,70,6/27/2022,30%,Crypto
+52,SafeGraph,SF Bay Area,27,6/27/2022,25%,Data
+53,Amount,Chicago,,6/27/2022,18%,Finance
+54,Postscript,SF Bay Area,43,6/26/2022,,Marketing
+55,Bitpanda,Vienna     Non,270,6/24/2022,27%,Crypto
+56,Sunday,Atlanta,90,6/24/2022,23%,Finance
+57,Bestow,Dallas,41,6/24/2022,14%,Finance
+58,Ethos Life,SF Bay Area,40,6/24/2022,12%,Finance
+59,Feather,New York …,,6/24/2022,,Retail
+60,Netflix,SF Bay Area,300,6/23/2022,3%,Media
+61,Aura,Boston,70,6/23/2022,9%,Security
+62,Pipl,Spokane,22,6/23/2022,13%,Security
+63,Vouch,SF Bay Area,15,6/23/2022,7%,Finance
+64,Voyage SMS,Los Angeles,8,6/23/2022,13%,Marketing
+65,Esper,Seattle,,6/23/2022,12%,Other
+66,Kune,Nairobi     Non,,6/23/2022,100%,Food
+67,Mark43,New York …,,6/23/2022,,Other
+68,Orchard,New York …,,6/23/2022,10%,Real Estate
+69,Ro,New York …,,6/23/2022,18%,Healthcare
+70,StreamElements,Tel Aviv     No,,6/23/2022,20%,Media
+71,MasterClass,SF Bay Area,120,6/22/2022,20%,Education
+72,Bungalow,SF Bay Area,70,6/22/2022,,Real Estate
+73,IronNet,Washingt…,55,6/22/2022,17%,Security
+,,,,,,
+74,Sprinklr,New York …,50,6/22/2022,,Support
+75,Superpedestrian,Boston,35,6/22/2022,7%,Transport…
+76,Voi,Stockholm,35,6/22/2022,10%,Transport…
+77,Balto,St. Louis,30,6/22/2022,,Sales
+78,Ritual,Toronto     No,23,6/22/2022,16%,Food
+79,Mindgeek,Luxembou…,,6/22/2022,,Media
+80,Voly,Sydney     Non,,6/22/2022,50%,Food
+81,Ebanx,Curitiba     No,340,6/21/2022,20%,Finance
+82,TaskUs,Los Angeles,52,6/21/2022,0%,Support
+83,Community,Los Angeles,40,6/21/2022,30%,Marketing
+84,Sourcegraph,SF Bay Area,24,6/21/2022,8%,Product
+85,Frubana,Bogota     Non,,6/21/2022,3%,Food
+86,SuperLearn,Bengaluru,,6/21/2022,100%,Education
+87,Tray.io,SF Bay Area,,6/21/2022,10%,Data
+88,Bybit,Singapore,600,6/20/2022,30%,Crypto
+89,SummerBio,SF Bay Area,101,6/20/2022,100%,Healthcare
+90,Trax,Singapore,100,6/20/2022,12%,Retail
+91,Aqgromalin,Chennai     No,80,6/20/2022,30%,Food
+92,Bonsai,Toronto     No,30,6/20/2022,55%,Retail
+93,Brighte,Sydney     Non,30,6/20/2022,15%,Energy
+94,Buzzer,New York …,,6/20/2022,20%,Media
+95,CityMall,Gurugram     N,191,6/19/2022,30%,Retail
+96,BitOasis,Dubai     Non-,9,6/19/2022,5%,Crypto
+97,Unacademy,Bengaluru,150,6/18/2022,3%,Education
+98,Bytedance,Shanghai     N,150,6/17/2022,,Consumer
+,,,,,,
+99,Socure,Reno,69,6/17/2022,13%,Finance
+100,Finite State,Columbus,16,6/17/2022,20%,Security
+101,Finite State,Columbus,16,6/17/2022,20%,Security
+102,JOKR,New York …,50,6/16/2022,5%,Food
+103,Zumper,SF Bay Area,45,6/16/2022,15%,Real Estate
+104,PharmEasy,Mumbai     No,40,6/16/2022,,Healthcare
+105,Circulo Health,Columbus,,6/16/2022,50%,Healthcare
+106,Swappie,Helsinki     No,250,6/15/2022,17%,Retail
+107,Wealthsimple,Toronto     No,159,6/15/2022,13%,Finance
+108,Weee!,SF Bay Area,150,6/15/2022,10%,Food
+109,Notarize,Boston,110,6/15/2022,25%,Legal
+110,Elementor,Tel Aviv     No,60,6/15/2022,15%,Media
+111,Tonkean,SF Bay Area,23,6/15/2022,23%,Other
+112,Airtame,Copenhag…,15,6/15/2022,,Consumer
+113,OpenWeb,Tel Aviv     No,14,6/15/2022,5%,Media
+114,Swyft,Toronto     No,10,6/15/2022,30%,Logistics
+115,Crehana,Lima     Non-U,,6/15/2022,,Education
+116,Coinbase,SF Bay Area,1100,6/14/2022,18%,Crypto
+117,Redfin,Seattle,470,6/14/2022,8%,Real Estate
+118,Compass,New York …,450,6/14/2022,10%,Real Estate
+119,Sami,Sao Paulo     N,75,6/14/2022,15%,Healthcare
+120,Breathe,New Delhi     N,50,6/14/2022,33%,Healthcare
+121,Hunty,Bogota     Non,30,6/14/2022,,HR
+122,TIFIN,Boulder,24,6/14/2022,10%,Crypto
+123,Addi,Bogota     Non,,6/14/2022,,Finance
+,,,,,,
+124,Shopee,Singapore,,6/14/2022,,Food
+125,BlockFi,New York …,250,6/13/2022,20%,Crypto
+126,Wave Sports and…,Los Angeles,56,6/13/2022,33%,Media
+127,Studio,SF Bay Area,33,6/13/2022,40%,Education
+128,Automox,Boulder,,6/13/2022,,Infrastruc…
+129,Desktop Metal,Boston,,6/13/2022,12%,Other
+130,Crypto.com,Singapore,260,6/10/2022,5%,Crypto
+131,FarEye,New Delhi     N,250,6/10/2022,30%,Logistics
+132,Berlin Brands Gr…,Berlin     Non-,100,6/10/2022,10%,Retail
+133,Sanar,Sao Paulo     N,60,6/10/2022,20%,Healthcare
+134,Freetrade,London     No,45,6/10/2022,15%,Finance
+135,Albert,Los Angeles,20,6/10/2022,8%,Finance
+136,Keepe,Seattle,,6/10/2022,,Real Estate
+137,Liongard,Houston,,6/10/2022,,Infrastruc…
+138,Ziroom,Beijing     Non,,6/10/2022,20%,Real Estate
+139,OneTrust,Atlanta,950,6/9/2022,25%,Security
+140,Stitch Fix,SF Bay Area,330,6/9/2022,15%,Retail
+141,Convoy,Seattle,90,6/9/2022,7%,Logistics
+142,Hologram,Chicago,80,6/9/2022,40%,Infrastruc…
+143,The Grommet,Boston,40,6/9/2022,100%,Retail
+144,Stashaway,Singapore,31,6/9/2022,14%,Finance
+145,Preply,Boston,26,6/9/2022,5%,Education
+146,Jellysmack,New York …,,6/9/2022,8%,Media
+147,Starship,SF Bay Area,,6/9/2022,11%,Transport…
+148,Trade Republic,Berlin     Non-,,6/9/2022,,Finance
+,,,,,,
+149,Sonder,SF Bay Area,250,6/8/2022,21%,Travel
+150,Kavak,Sao Paulo     N,150,6/8/2022,,Transport…
+151,iPrice Group,Kuala Lum…,50,6/8/2022,20%,Retail
+152,Memmo,Stockholm,,6/8/2022,40%,Consumer
+153,Truepill,SF Bay Area,,6/8/2022,15%,Healthcare
+154,Cazoo,London     No,750,6/7/2022,15%,Transport…
+155,Rupeek,Bengaluru,180,6/7/2022,15%,Finance
+156,Lummo,Jakarta     Non,150,6/7/2022,,Marketing
+157,Bird,Los Angeles,138,6/7/2022,23%,Transport…
+158,ID.me,Washingt…,130,6/7/2022,,Security
+159,KiwiCo,SF Bay Area,40,6/7/2022,,Retail
+160,Bond,SF Bay Area,,6/7/2022,,Finance
+161,CyberCube,SF Bay Area,,6/7/2022,,Finance
+162,Dutchie,Bend,50,6/6/2022,7%,Other
+163,Deep Instinct,New York …,,6/6/2022,10%,Security
+164,Sendoso,SF Bay Area,,6/6/2022,14%,Marketing
+165,Eruditus,Mumbai     No,40,6/4/2022,,Education
+166,Superhuman,SF Bay Area,23,6/3/2022,22%,Consumer
+167,Food52,New York …,21,6/3/2022,15%,Food
+168,5B Solar,Sydney     Non,,6/3/2022,25%,Energy
+169,Clubhouse,SF Bay Area,,6/3/2022,,Consumer
+170,Carbon Health,SF Bay Area,250,6/2/2022,8%,Healthcare
+171,Favo,Sao Paulo     N,170,6/2/2022,,Food
+172,PolicyGenius,New York …,170,6/2/2022,25%,Finance
+173,Yojak,Gurugram     N,140,6/2/2022,50%,Construct…
+,,,,,,
+174,Envato,Melbourne,100,6/2/2022,,Marketing
+175,Gemini,New York …,100,6/2/2022,10%,Crypto
+176,Stord,Atlanta,59,6/2/2022,8%,Logistics
+177,Gather,SF Bay Area,30,6/2/2022,33%,Consumer
+178,Shef,SF Bay Area,29,6/2/2022,,Food
+179,IRL,SF Bay Area,25,6/2/2022,25%,Consumer
+180,Esme Learning,Boston,,6/2/2022,,Education
+181,Kaodim,Selangor     N,,6/2/2022,100%,Consumer
+182,Rain,Manama     No,,6/2/2022,,Finance
+183,Cybereason,Boston,100,6/1/2022,6%,Security
+184,Udayy,Gurugram     N,100,6/1/2022,100%,Education
+185,2TM,Sao Paulo     N,90,6/1/2022,12%,Crypto
+186,Curve,London     No,65,6/1/2022,10%,Finance
+187,Loom,SF Bay Area,34,6/1/2022,14%,Product
+188,Skillshare,New York …,31,6/1/2022,,Education
+189,Impala,London     No,30,6/1/2022,35%,Travel
+190,Eaze,SF Bay Area,25,6/1/2022,,Consumer
+191,Side,SF Bay Area,,6/1/2022,10%,Real Estate
+192,Truck It In,Karachi     No,,6/1/2022,30%,Logistics
+193,Playtika,Tel Aviv     No,250,5/31/2022,6%,Consumer
+194,Replicated,Los Angeles,50,5/31/2022,,Infrastruc…
+195,Tomo,Stamford,44,5/31/2022,33%,Finance
+196,Getta,Tel Aviv     No,30,5/31/2022,,Transport…
+197,BookClub,Salt Lake …,12,5/31/2022,25%,Education
+198,Cerebral,SF Bay Area,,5/31/2022,,Healthcare
+,,,,,,
+199,SWVL,Dubai     Non-,400,5/30/2022,32%,Transport…
+200,Mobile Premier L…,Bengaluru,100,5/30/2022,10%,Consumer
+201,SumUp,Sao Paulo     N,100,5/30/2022,3%,Finance
+202,Tempus Ex,SF Bay Area,,5/30/2022,,Data
+203,FrontRow,Bengaluru,145,5/27/2022,30%,Education
+204,Daloopa,New Delhi     N,40,5/27/2022,,Data
+205,Uncapped,London     No,29,5/27/2022,26%,Finance
+206,Akerna,Denver,,5/27/2022,,Logistics
+207,Terminus,Atlanta,,5/27/2022,,Marketing
+208,VTEX,Sao Paulo     N,200,5/26/2022,13%,Retail
+209,Bitso,Mexico City,80,5/26/2022,11%,Crypto
+210,Foodpanda,Bucharest,80,5/26/2022,,Food
+211,Dazn,London     No,50,5/26/2022,2%,Consumer
+212,Getir,Istanbul     No,4480,5/25/2022,14%,Food
+213,Lacework,SF Bay Area,300,5/25/2022,20%,Security
+214,Bolt,SF Bay Area,240,5/25/2022,27%,Finance
+215,PeerStreet,Los Angeles,75,5/25/2022,,Finance
+216,Kontist,Berlin     Non-,50,5/25/2022,25%,Finance
+217,Nuri,Berlin     Non-,45,5/25/2022,20%,Finance
+218,Coterie Insurance,Cincinnati,30,5/25/2022,20%,Finance
+219,Airlift,Lahore     Non,,5/25/2022,31%,Logistics
+220,Zapp,London     No,,5/25/2022,10%,Food
+221,Gorillas,Berlin     Non-,300,5/24/2022,50%,Food
+222,Zenius,Jakarta     Non,200,5/24/2022,,Education
+223,The Zebra,Austin,40,5/24/2022,,Finance
+224,Klarna,Stockholm,700,5/23/2022,10%,Finance
+225,PayPal,SF Bay Area,83,5/23/2022,,Finance
+226,Buenbit,Buenos Ai…,80,5/23/2022,45%,Crypto
+227,BeyondMinds,Tel Aviv     No,65,5/23/2022,100%,Data
+228,ClickUp,San Diego,60,5/23/2022,7%,Other
+229,Olist,Curitiba     No,,5/23/2022,,Retail
+230,MFine,Bengaluru,600,5/21/2022,75%,Healthcare
+231,Latch,New York …,130,5/20/2022,28%,Security
+232,Outside,Boulder,87,5/20/2022,15%,Media
+233,Skillz,SF Bay Area,70,5/20/2022,10%,Consumer
+234,Cars24,Gurugram     N,600,5/19/2022,6%,Transport…
+235,Vedantu,Bengaluru,424,5/18/2022,7%,Education
+236,Netflix,SF Bay Area,150,5/17/2022,1%,Media
+237,Kry,Stockholm,100,5/17/2022,10%,Healthcare
+238,Picsart,Miami,90,5/17/2022,8%,Consumer
+239,Zak,Sao Paulo     N,100,5/16/2022,40%,Food
+240,Zulily,Seattle,,5/16/2022,,Retail
+241,AliExpress Russia,Moscow     No,400,5/14/2022,40%,Retail
+242,Thirty Madison,New York …,24,5/14/2022,,Healthcare
+243,CommonBond,New York …,22,5/13/2022,,Finance
+244,Subspace,Los Angeles,,5/13/2022,100%,Infrastruc…
+245,Zwift,Los Angeles,150,5/12/2022,,Fitness
+246,Section4,New York …,32,5/12/2022,,Education
+247,Tripwire,Portland,,5/12/2022,,Security
+248,DataRobot,Boston,70,5/11/2022,7%,Data
+249,Carvana,Phoenix,2500,5/10/2022,12%,Transport…
+250,Doma,SF Bay Area,310,5/10/2022,15%,Finance
+251,Pollen,London     No,200,5/10/2022,33%,Travel
+252,Latch,New York …,30,5/10/2022,6%,Security
+253,Vroom,New York …,270,5/9/2022,14%,Transport…
+254,Reef,Miami,750,5/6/2022,5%,Transport…
+255,divvyDOSE,Davenport,62,5/6/2022,,Healthcare
+256,Vedantu,Bengaluru,200,5/5/2022,3%,Education
+257,Mural,SF Bay Area,90,5/5/2022,10%,Product
+258,On Deck,SF Bay Area,72,5/5/2022,25%,Education
+259,SEND,Sydney     Non,300,5/4/2022,100%,Food
+260,Colossus,Boston,97,5/4/2022,,Energy
+261,Cameo,Chicago,87,5/4/2022,25%,Consumer
+262,Mainstreet,SF Bay Area,45,5/4/2022,30%,Finance
+263,Ideoclick,Seattle,40,5/4/2022,,Retail
+264,Vise,New York …,25,5/4/2022,,Finance
+265,Bizpay,Sydney     Non,,5/4/2022,30%,Finance
+266,Thrasio,Boston,,5/2/2022,,Retail
+267,Avo,Tel Aviv     No,500,5/1/2022,67%,Food
+268,Noom,New York …,495,4/29/2022,,Healthcare
+269,Netflix,SF Bay Area,25,4/28/2022,,Media
+270,Wahoo Fitness,Atlanta,50,4/27/2022,,Fitness
+271,Robinhood,SF Bay Area,340,4/26/2022,9%,Finance
+272,Bonsai,Toronto     No,29,4/26/2022,34%,Retail
+,Clyde,New York …,22,4/25/2022,,Marketing
+273,,,,,,
+274,Xiaohongshu,Shanghai     N,180,4/21/2022,9%,Consumer
+275,Facily,Sao Paulo     N,260,4/20/2022,30%,Retail
+276,Lemonade,New York …,52,4/20/2022,,Finance
+277,Blend,SF Bay Area,200,4/19/2022,10%,Finance
+278,QuintoAndar,Sao Paulo     N,160,4/19/2022,4%,Real Estate
+279,Loft,Sao Paulo     N,159,4/19/2022,,Real Estate
+280,Better.com,New York …,,4/19/2022,,Real Estate
+281,Automox,Boulder,,4/18/2022,11%,Infrastruc…
+282,Humble,SF Bay Area,10,4/15/2022,,Media
+283,Halcyon Health,New York …,,4/15/2022,100%,Healthcare
+284,Ahead,SF Bay Area,44,4/14/2022,100%,Healthcare
+285,Truepill,SF Bay Area,,4/14/2022,,Healthcare
+286,Rad Power Bikes,Seattle,100,4/12/2022,14%,Transport…
+287,Meesho,Bengaluru,150,4/11/2022,,Retail
+288,Food52,New York …,20,4/8/2022,10%,Food
+289,Unacademy,Bengaluru,1000,4/7/2022,17%,Education
+290,Workrise,Austin,450,4/5/2022,,Energy
+291,Fast,SF Bay Area,,4/5/2022,100%,Finance
+292,BitMEX,Non-U.S.,75,4/4/2022,25%,Crypto
+293,Legible,Vancouver,23,4/4/2022,38%,Media
+294,Sea,Bengaluru,350,3/30/2022,,Retail
+295,Rasa,Berlin     Non-,59,3/30/2022,40%,Data
+296,Gopuff,Philadelphia,450,3/29/2022,3%,Food
+297,Thinkific,Vancouver,100,3/29/2022,20%,Education
+298,Furlenco,Bengaluru,180,3/26/2022,,Retail
+299,Grove Collaborat…,SF Bay Area,,3/19/2022,17%,Retail
+300,Storytel,Stockholm,100,3/17/2022,10%,Media
+301,Curology,SF Bay Area,150,3/16/2022,,Healthcare
+302,Trell,Bengaluru,300,3/15/2022,50%,Retail
+303,Knock,New York …,115,3/15/2022,46%,Real Estate
+304,Talis Biomedical,SF Bay Area,,3/15/2022,25%,Healthcare
+305,Sezzle,Minneapolis,,3/10/2022,20%,Finance
+306,Better.com,New York …,3000,3/8/2022,33%,Real Estate
+307,Adaptive Biotech…,Seattle,100,3/8/2022,12%,Healthcare
+308,Hyperscience,New York …,100,3/3/2022,25%,Data
+309,WeDoctor,Non-U.S.,500,3/2/2022,,Healthcare
+310,Wish,SF Bay Area,190,3/1/2022,15%,Retail
+311,OKCredit,New Delhi     N,30,2/24/2022,,Finance
+312,Lido,Mumbai     No,150,2/21/2022,,Education
+313,Virgin Hyperloop,Los Angeles,111,2/21/2022,50%,Transport…
+314,Trustly,Stockholm,120,2/17/2022,,Finance
+315,Liv Up,Sao Paulo     N,100,2/16/2022,15%,Food
+316,Homie,Salt Lake …,119,2/14/2022,29%,Real Estate
+317,Hopin,London     No,138,2/10/2022,12%,Other
+318,Peloton,New York …,2800,2/8/2022,20%,Fitness
+319,Rhino,New York …,57,2/3/2022,20%,Real Estate
+320,Gopuff,Philadelphia,100,1/26/2022,,Food
+321,Glossier,New York …,80,1/26/2022,33%,Consumer
+,Root Insurance,,330,1/20/2022,,
+322,,Columbus,,,,Finance
+323,Spin,SF Bay Area,,1/8/2022,25%,Transport…
+324,Delivery Hero,Berlin     Non-,300,12/22/2021,,Food
+325,Better.com,New York …,900,12/1/2021,9%,Real Estate
+326,BitTitan,Seattle,70,11/18/2021,27%,Data
+327,Zillow,Seattle,2000,11/2/2021,25%,Real Estate
+328,InVision,New York …,22,10/5/2021,,Product
+329,Ozy Media,SF Bay Area,,10/1/2021,100%,Media
+330,Zymergen,SF Bay Area,120,9/23/2021,,Other
+331,Imperfect Foods,SF Bay Area,,9/22/2021,,Food
+332,Genius,New York …,,9/15/2021,,Consumer
+333,Treehouse,Portland,41,9/14/2021,90%,Education
+334,Casper,New York …,,9/14/2021,,Retail
+335,Tanium,Seattle,30,8/30/2021,,Security
+336,Flockjay,SF Bay Area,37,8/24/2021,50%,Education
+337,Bytedance,Shanghai     N,1800,8/5/2021,,Consumer
+338,Pagarbook,Bengaluru,80,7/26/2021,,HR
+339,Katerra,SF Bay Area,2434,6/1/2021,100%,Construct…
+340,SumUp,London     No,,5/5/2021,,Finance
+341,Lambda School,SF Bay Area,65,4/29/2021,,Education
+342,Madefire,SF Bay Area,,4/29/2021,100%,Media
+343,Patreon,SF Bay Area,36,4/26/2021,,Media
+344,New Relic,SF Bay Area,160,4/6/2021,7%,Infrastruc…
+345,Medium,SF Bay Area,,3/24/2021,,Media
+346,HuffPo,New York …,47,3/9/2021,,Media
+347,Subspace,Los Angeles,,3/3/2021,,Infrastruc…
+348,Clumio,SF Bay Area,,3/1/2021,,Data
+349,DJI,SF Bay Area,,2/24/2021,,Consumer
+350,Ninjacart,Bengaluru,200,2/23/2021,,Food
+351,Bounce,Bengaluru,200,2/22/2021,40%,Transport…
+352,ThredUp,Chicago,243,2/9/2021,,Retail
+353,Indigo,Boston,80,2/9/2021,,Other
+354,Limelight,New York …,13,2/4/2021,100%,Recruiting
+355,Quandoo,Berlin     Non-,87,2/3/2021,20%,Food
+356,Hubba,Toronto     No,45,2/1/2021,100%,Retail
+357,Bytedance,Mumbai     No,1800,1/27/2021,,Consumer
+358,Privitar,London     No,20,1/27/2021,,Data
+359,Postmates,SF Bay Area,180,1/23/2021,15%,Food
+360,Instacart,SF Bay Area,1877,1/21/2021,,Food
+361,Pocketmath,Singapore,21,1/20/2021,100%,Marketing
+362,Dropbox,SF Bay Area,315,1/13/2021,15%,Other
+363,Aura Financial,SF Bay Area,,1/11/2021,100%,Finance
+364,Simple,Portland,,1/7/2021,100%,Finance
+365,WhiteHat Jr,Mumbai     No,1800,1/6/2021,,Education
+366,Pulse Secure,SF Bay Area,78,12/23/2020,,Security
+367,Breather,Montreal     N,120,12/16/2020,80%,Real Estate
+368,Actifio,Boston,54,12/16/2020,,Data
+369,OYO,Gurugram     N,600,12/8/2020,,Travel
+370,Zinier,SF Bay Area,,11/25/2020,,HR
+,,,,,,
+371,Aya,Toronto     No,5,11/19/2020,25%,Finance
+372,Domio,New York …,,11/18/2020,50%,Real Estate
+373,Bridge Connector,Nashville,154,11/17/2020,100%,Healthcare
+374,Tidepool,SF Bay Area,18,11/17/2020,40%,Healthcare
+375,Igenous,Seattle,,11/17/2020,,Data
+376,Scoop,SF Bay Area,,11/17/2020,,Transport…
+377,Worksmith,Austin,30,11/9/2020,50%,Retail
+378,Rubica,Seattle,,11/5/2020,100%,Security
+379,Bossa Nova,SF Bay Area,,11/2/2020,50%,Retail
+380,Remedy,Austin,82,10/29/2020,,Healthcare
+381,Knotel,New York …,20,10/29/2020,8%,Real Estate
+382,Cheetah,SF Bay Area,,10/25/2020,,Food
+383,CodeCombat,SF Bay Area,8,10/23/2020,,Education
+384,Quibi,Los Angeles,,10/21/2020,100%,Media
+385,Zomato,Jakarta     Non,,10/20/2020,,Food
+386,GetYourGuide,Berlin     Non-,90,10/14/2020,17%,Travel
+387,OLX India,New Delhi     N,250,10/10/2020,,Marketing
+388,Chef,Seattle,,10/8/2020,,Infrastruc…
+389,Alto Pharmacy,SF Bay Area,47,9/29/2020,6%,Healthcare
+390,TheWrap,Los Angeles,,9/29/2020,,Media
+391,HumanForest,London     No,,9/25/2020,,Transport…
+392,WeWork,Shenzen     No,,9/23/2020,,Real Estate
+393,Air,New York …,,9/16/2020,16%,Marketing
+394,NS8,Las Vegas,240,9/11/2020,95%,Data
+395,Bleacher Report,London     No,20,9/11/2020,,Media
+396,HubHaus,SF Bay Area,,9/11/2020,100%,Real Estate
+397,Waze,SF Bay Area,30,9/9/2020,5%,Transport…
+398,Ouster,SF Bay Area,,9/8/2020,10%,Transport…
+399,Swing Education,SF Bay Area,,9/5/2020,,Education
+400,Akerna,Denver,,9/2/2020,,Logistics
+401,Awok,Dubai     Non-,,9/2/2020,100%,Retail
+402,Big Fish Games,Seattle,250,9/1/2020,,Media
+403,GoBear,Singapore,22,9/1/2020,11%,Finance
+404,MakeMyTrip,New Delhi     N,350,8/31/2020,10%,Travel
+405,Salesforce,SF Bay Area,1000,8/26/2020,2%,Sales
+406,kununu,Boston,,8/26/2020,,Recruiting
+407,Superloop,Brisbane     N,30,8/24/2020,,Infrastruc…
+408,Spaces,Los Angeles,,8/24/2020,,Media
+409,StreamSets,SF Bay Area,,8/20/2020,,Data
+410,Docly,London     No,8,8/19/2020,80%,Healthcare
+411,Mapify,Berlin     Non-,,8/19/2020,,Travel
+412,Lumina Networks,SF Bay Area,,8/18/2020,100%,Infrastruc…
+413,DJI,Shenzen     No,,8/17/2020,,Consumer
+414,Shopify,Ottawa     Non,30,8/14/2020,,Retail
+415,InVision,New York …,,8/14/2020,,Product
+416,HopSkipDrive,Los Angeles,,8/12/2020,,Transport…
+417,Mozilla,SF Bay Area,250,8/11/2020,25%,Consumer
+418,Eatsy,Singapore,20,8/8/2020,100%,Food
+419,Glossier,New York …,150,8/7/2020,38%,Retail
+,,,,,,
+420,The Appraisal La…,Montevideo,,8/7/2020,,Transport…
+421,Thriver,Toronto     No,75,8/6/2020,50%,Food
+422,Vesta,Atlanta,56,8/5/2020,,Sales
+423,Booking.com,Amsterdam,4375,7/30/2020,25%,Travel
+424,Buy.com / Rakuten,SF Bay Area,87,7/30/2020,100%,Retail
+425,tZero,New York …,,7/30/2020,,Finance
+426,Pared,SF Bay Area,,7/29/2020,,Food
+427,Procore,Los Angeles,180,7/28/2020,9%,Construct…
+428,Swiggy,Bengaluru,350,7/27/2020,5%,Food
+429,Zeitgold,Berlin     Non-,75,7/27/2020,72%,Finance
+430,Perkbox,London     No,,7/27/2020,,HR
+431,Checkr,SF Bay Area,64,7/23/2020,12%,HR
+432,Sorabel,Jakarta     Non,,7/23/2020,100%,Retail
+433,LinkedIn,SF Bay Area,960,7/21/2020,6%,Recruiting
+434,Lighter Capital,Seattle,22,7/20/2020,49%,Finance
+435,Curefit,Bengaluru,120,7/17/2020,,Fitness
+436,Snaptravel,Toronto     No,,7/16/2020,,Travel
+437,Optimizely,SF Bay Area,60,7/15/2020,15%,Marketing
+438,Skyscanner,Edinburgh,300,7/14/2020,20%,Travel
+439,Vox Media,Washingt…,,7/14/2020,,Media
+440,Yelp,SF Bay Area,63,7/13/2020,,Consumer
+441,Bizongo,Mumbai     No,140,7/10/2020,,Logistics
+442,Zilingo,Singapore,100,7/9/2020,12%,Retail
+443,PaySense,Mumbai     No,40,7/9/2020,,Finance
+444,Funding Circle,SF Bay Area,85,7/8/2020,,Finance
+445,OnDeck,New York …,,7/8/2020,,Finance
+446,The Wing,New York …,56,7/1/2020,,Real Estate
+447,Sharethrough,SF Bay Area,18,7/1/2020,,Marketing
+448,Kongregate,SF Bay Area,12,7/1/2020,,Media
+449,Havenly,Denver,5,7/1/2020,,Consumer
+450,G2,Chicago,17,6/30/2020,5%,Marketing
+451,Hired,SF Bay Area,,6/30/2020,,Recruiting
+452,Katerra,SF Bay Area,400,6/29/2020,7%,Construct…
+453,Bounce,Bengaluru,130,6/29/2020,22%,Transport…
+454,Argo AI,Munich     Non,100,6/29/2020,,Transport…
+455,Bossa Nova,SF Bay Area,61,6/29/2020,,Retail
+456,New Relic,Portland,20,6/29/2020,,Infrastruc…
+457,Engine eCommer…,Fayetteville,,6/28/2020,100%,Retail
+458,Byton,SF Bay Area,,6/27/2020,,Transport…
+459,Sprinklr,New York …,,6/25/2020,,Support
+460,GoDaddy,Austin,451,6/24/2020,6%,Marketing
+461,Sonos,New York …,174,6/24/2020,12%,Consumer
+462,OYO,Dallas,,6/24/2020,,Travel
+463,Gojek,Jakarta     Non,430,6/23/2020,9%,Transport…
+464,ScaleFactor,Austin,90,6/23/2020,90%,Finance
+465,Dark,SF Bay Area,6,6/23/2020,100%,Product
+466,Intuit,SF Bay Area,715,6/22/2020,7%,Finance
+467,WeWork,London     No,200,6/19/2020,,Real Estate
+468,Atlas Obscura,New York …,15,6/18/2020,,Media
+,,,,,,
+469,Navi,Bengaluru,40,6/17/2020,25%,Finance
+470,PaisaBazaar,Gurugram     N,1500,6/16/2020,50%,Finance
+471,Grab,Singapore,360,6/16/2020,5%,Transport…
+472,Splunk,SF Bay Area,70,6/16/2020,1%,Data
+473,Redox,Madison,44,6/16/2020,25%,Healthcare
+474,Conga,Denver,,6/15/2020,11%,Data
+475,Stockwell AI,SF Bay Area,,6/15/2020,100%,Retail
+476,Uber,Amsterdam,225,6/12/2020,25%,Transport…
+477,SynapseFI,SF Bay Area,63,6/12/2020,48%,Finance
+478,ScaleFocus,Sofia     Non-,120,6/11/2020,10%,Infrastruc…
+479,Branch,New York …,3,6/11/2020,27%,Retail
+480,Her Campus Me…,Boston,10,6/10/2020,18%,Media
+481,Integrate.ai,Toronto     No,26,6/9/2020,,Support
+482,The Athletic,SF Bay Area,46,6/5/2020,8%,Media
+483,Ethos Life,SF Bay Area,18,6/5/2020,14%,Finance
+484,Lastline,SF Bay Area,50,6/4/2020,40%,Security
+485,Builder,Los Angeles,39,6/4/2020,14%,Product
+486,Outdoorsy,SF Bay Area,,6/4/2020,,Transport…
+487,Monzo,London     No,120,6/3/2020,8%,Finance
+488,Kitty Hawk,SF Bay Area,70,6/3/2020,,Aerospace
+489,SpotHero,Chicago,40,6/3/2020,21%,Transport…
+490,Credit Sesame,SF Bay Area,22,6/3/2020,14%,Finance
+491,Circ,Berlin     Non-,100,6/2/2020,,Transport…
+492,Rivian,Detroit,40,6/2/2020,2%,Transport…
+493,Fundbox,SF Bay Area,14,6/2/2020,15%,Finance
+494,Descartes Labs,Santa Fe,12,6/2/2020,16%,Data
+495,MakerBot,New York …,12,6/2/2020,,Consumer
+496,Stitch Fix,SF Bay Area,1400,6/1/2020,18%,Retail
+497,MakeMyTrip,Gurugram     N,350,6/1/2020,10%,Travel
+498,CrowdStreet,Portland,24,6/1/2020,22%,Real Estate
+499,Brex,SF Bay Area,62,5/29/2020,15%,Finance
+500,Loftium,Seattle,32,5/29/2020,60%,Real Estate
+501,BookMyShow,Mumbai     No,270,5/28/2020,18%,Consumer
+502,TrueCar,Los Angeles,219,5/28/2020,30%,Transport…
+503,StubHub,SF Bay Area,200,5/28/2020,,Consumer
+504,Culture Amp,Melbourne,36,5/28/2020,8%,HR
+505,The Sill,New York …,20,5/28/2020,25%,Retail
+506,Instructure,Salt Lake …,150,5/27/2020,12%,Education
+507,Ebanx,Curitiba     No,62,5/27/2020,8%,Finance
+508,Uber,Bengaluru,600,5/26/2020,23%,Transport…
+509,Bluprint,Denver,137,5/26/2020,100%,Education
+510,Acorns,Portland,50,5/26/2020,,Finance
+511,CarDekho,Gurugram     N,200,5/25/2020,,Transport…
+512,Teamwork,Cork     Non-U,21,5/22/2020,,Other
+513,Cvent,Washingt…,400,5/21/2020,10%,Marketing
+514,PickYourTrail,Chennai     No,70,5/21/2020,35%,Travel
+515,Glitch,New York …,18,5/21/2020,36%,Product
+516,Kapten / Free Now,Paris     Non-U,,5/21/2020,,Transport…
+517,Ola,Bengaluru,1400,5/20/2020,35%,Transport…
+518,Samsara,SF Bay Area,300,5/20/2020,18%,Logistics
+,,,,,,
+519,Stay Alfred,Spokane,221,5/20/2020,100%,Travel
+520,SoFi,SF Bay Area,112,5/20/2020,7%,Finance
+521,ShareChat,Bengaluru,101,5/20/2020,25%,Marketing
+522,Intercom,SF Bay Area,39,5/20/2020,6%,Support
+523,Livspace,Bengaluru,450,5/19/2020,15%,Retail
+524,Pollen,London     No,69,5/19/2020,31%,Travel
+525,Dotscience,London     No,10,5/19/2020,100%,Product
+526,Divvy,Salt Lake …,,5/19/2020,,Finance
+527,Uber,SF Bay Area,3000,5/18/2020,13%,Transport…
+528,Agoda,Singapore,1500,5/18/2020,25%,Travel
+529,Swiggy,Bengaluru,1100,5/18/2020,14%,Food
+530,WeWork,New Delhi     N,100,5/18/2020,20%,Real Estate
+531,Rubrik,SF Bay Area,57,5/18/2020,,Infrastruc…
+532,Intapp,SF Bay Area,45,5/18/2020,5%,Legal
+533,Checkmarx,Tel Aviv     No,,5/18/2020,,Security
+534,Datera,SF Bay Area,,5/18/2020,10%,Infrastruc…
+535,Magicbricks,Noida     Non-,250,5/17/2020,,Real Estate
+536,Zomato,Gurugram     N,520,5/15/2020,13%,Food
+537,Lendingkart,Ahmedabad,500,5/15/2020,50%,Finance
+538,Lattice,SF Bay Area,16,5/15/2020,10%,HR
+539,Masse,New York …,,5/15/2020,100%,Retail
+540,Cruise,SF Bay Area,150,5/14/2020,8%,Transport…
+541,Quartz,New York …,80,5/14/2020,40%,Media
+542,Integral Ad Scien…,New York …,70,5/14/2020,10%,Marketing
+543,Ridecell,,35,5/14/2020,15%,Transport…
+,,SF Bay Area,,,,
+544,Veem,SF Bay Area,30,5/14/2020,,Finance
+545,Sift,SF Bay Area,,5/14/2020,,Security
+546,Workfront,Salt Lake …,,5/14/2020,,Marketing
+547,Deliv,SF Bay Area,669,5/13/2020,100%,Retail
+548,Mercos,Joinville     No,51,5/13/2020,40%,Sales
+549,Kickstarter,New York …,25,5/13/2020,18%,Finance
+550,Intersect,Toronto     No,19,5/13/2020,11%,Product
+551,Mode Analytics,SF Bay Area,17,5/13/2020,,Data
+552,BetterCloud,New York …,,5/13/2020,,Security
+553,WeFit,Hanoi     Non-,,5/13/2020,100%,Fitness
+554,Zymergen,SF Bay Area,,5/13/2020,10%,Other
+555,Stone,Sao Paulo     N,1300,5/12/2020,20%,Finance
+556,Zeus Living,SF Bay Area,73,5/12/2020,50%,Real Estate
+557,Mixpanel,SF Bay Area,65,5/12/2020,19%,Data
+558,Hireology,Chicago,36,5/12/2020,17%,Recruiting
+559,Top Hat,Toronto     No,16,5/12/2020,3%,Education
+560,Datto,Norwalk,,5/12/2020,,Infrastruc…
+561,Petal,New York …,,5/12/2020,,Finance
+562,Revolut,London     No,60,5/11/2020,3%,Finance
+563,Cadre,New York …,28,5/11/2020,25%,Real Estate
+564,N26,New York …,9,5/8/2020,1%,Finance
+565,Jump,New York …,500,5/7/2020,100%,Transport…
+566,Glassdoor,SF Bay Area,300,5/7/2020,30%,Recruiting
+567,Numbrs,Zurich     Non,62,5/7/2020,50%,Finance
+,,,,,,
+568,Flywire,Boston,60,5/7/2020,12%,Finance
+569,SalesLoft,Atlanta,55,5/7/2020,,Sales
+570,Tally,SF Bay Area,28,5/7/2020,23%,Finance
+571,Airy Rooms,Jakarta     Non,,5/7/2020,100%,Travel
+572,Uber,SF Bay Area,3700,5/6/2020,14%,Transport…
+573,Validity,Boston,130,5/6/2020,33%,Data
+574,Flatiron School,New York …,100,5/6/2020,,Education
+575,Rubicon Project,Los Angeles,50,5/6/2020,8%,Marketing
+576,Segment,SF Bay Area,50,5/6/2020,10%,Data
+577,OPay,Lagos     Non-,,5/6/2020,70%,Finance
+578,ThoughtSpot,SF Bay Area,,5/6/2020,,Data
+579,Airbnb,SF Bay Area,1900,5/5/2020,25%,Travel
+580,Juul,SF Bay Area,900,5/5/2020,30%,Consumer
+581,Andela,New York …,135,5/5/2020,10%,Recruiting
+582,Stack Overflow,New York …,40,5/5/2020,15%,Recruiting
+583,Pipedrive,Tallin     Non-,31,5/5/2020,,Sales
+584,Workable,Boston,25,5/5/2020,10%,Recruiting
+585,Cloudera,SF Bay Area,,5/5/2020,,Infrastruc…
+586,Handshake,SF Bay Area,,5/5/2020,,Recruiting
+587,League,Toronto     No,,5/5/2020,,Healthcare
+588,CureFit,Bengaluru,800,5/4/2020,16%,Fitness
+589,Careem,Dubai     Non-,536,5/4/2020,31%,Transport…
+590,Oriente,Hong Kong,400,5/4/2020,20%,Finance
+591,Veriff,Tallin     Non-,63,5/4/2020,21%,Security
+592,Element AI,,62,5/4/2020,15%,Other
+,,Montreal     N,,,,
+593,Deputy,Sydney     Non,60,5/4/2020,30%,HR
+594,Loopio,Toronto     No,11,5/4/2020,8%,Sales
+595,Castlight Health,SF Bay Area,,5/4/2020,13%,Healthcare
+596,Trivago,Dusseldorf,,5/4/2020,,Travel
+597,Trax,Tel Aviv     No,120,5/3/2020,10%,Retail
+598,LiveTiles,New York …,50,5/3/2020,,Other
+599,OYO,London     No,150,5/1/2020,,Travel
+600,Namely,New York …,110,5/1/2020,40%,HR
+601,Culture Trip,London     No,95,5/1/2020,32%,Media
+602,Sandbox VR,SF Bay Area,80,5/1/2020,80%,Consumer
+603,Virtudent,Boston,70,5/1/2020,,Healthcare
+604,Monese,Lisbon     Non,35,5/1/2020,,Finance
+605,TheSkimm,New York …,26,5/1/2020,20%,Media
+606,Automatic,SF Bay Area,,5/1/2020,100%,Transport…
+607,Flynote,Bengaluru,,5/1/2020,,Travel
+608,Bullhorn,Boston,100,4/30/2020,,Sales
+609,Care.com,Boston,81,4/30/2020,,Consumer
+610,AirMap,Los Angeles,,4/30/2020,,Aerospace
+611,Cohesity,SF Bay Area,,4/30/2020,,Data
+612,Fandom,SF Bay Area,,4/30/2020,14%,Media
+613,PicoBrew,Seattle,,4/30/2020,100%,Food
+614,Lyft,SF Bay Area,982,4/29/2020,17%,Transport…
+615,WeWork,SF Bay Area,300,4/29/2020,,Real Estate
+616,Kayak / OpenTable,Stamford,160,4/29/2020,8%,Travel
+,,,,,,
+617,Kitopi,New York …,124,4/29/2020,,Food
+618,Lime,SF Bay Area,80,4/29/2020,13%,Transport…
+619,Transfix,New York …,24,4/29/2020,10%,Logistics
+620,Yoco,Cape Town,,4/29/2020,,Finance
+621,TripAdvisor,Boston,900,4/28/2020,25%,Travel
+622,Renmoney,Lagos     Non-,391,4/28/2020,50%,Finance
+623,Deliveroo,London     No,367,4/28/2020,15%,Food
+624,App Annie,SF Bay Area,80,4/28/2020,18%,Data
+625,OpenX,Los Angeles,35,4/28/2020,15%,Marketing
+626,PayJoy,SF Bay Area,27,4/28/2020,25%,Finance
+627,Shipsi,Los Angeles,20,4/28/2020,50%,Retail
+628,Desktop Metal,Boston,,4/28/2020,,Other
+629,Migo,SF Bay Area,,4/28/2020,25%,Finance
+630,Automation Any…,SF Bay Area,260,4/27/2020,10%,Other
+631,JetClosing,Seattle,20,4/27/2020,20%,Real Estate
+632,Qwick,Phoenix,,4/27/2020,70%,Recruiting
+633,OYO,Sao Paulo     N,500,4/25/2020,,Travel
+634,Stoqo,Jakarta     Non,250,4/25/2020,100%,Food
+635,Submittable,Missoula,30,4/25/2020,20%,Other
+636,Divergent 3D,Los Angeles,57,4/24/2020,36%,Transport…
+637,Ada Support,Toronto     No,36,4/24/2020,23%,Support
+638,UPshow,Chicago,19,4/24/2020,30%,Marketing
+639,Lighter Capital,Seattle,18,4/24/2020,22%,Finance
+640,Horizn Studios,Berlin     Non-,15,4/24/2020,25%,Travel
+641,Welkin Health,,10,,33%,
+,,SF Bay Area,,4/24/2020,,Healthcare
+642,Jiobit,Chicago,6,4/24/2020,21%,Consumer
+643,TutorMundi,Sao Paulo     N,4,4/24/2020,100%,Education
+644,Cheddar,New York …,,4/24/2020,,Media
+645,GoCardless,London     No,,4/24/2020,,Finance
+646,StockX,Detroit,100,4/23/2020,12%,Retail
+647,Zenefits,SF Bay Area,87,4/23/2020,15%,HR
+648,Sisense,New York …,80,4/23/2020,9%,Data
+649,Oscar Health,New York …,70,4/23/2020,5%,Healthcare
+650,Simon Data,New York …,6,4/23/2020,,Marketing
+651,Convoy,Seattle,,4/23/2020,1%,Logistics
+652,PowerReviews,Chicago,,4/23/2020,,Retail
+653,Singular,SF Bay Area,,4/23/2020,,Marketing
+654,Magic Leap,Miami,1000,4/22/2020,50%,Consumer
+655,When I Work,Minneapolis,55,4/22/2020,35%,HR
+656,Ike,SF Bay Area,10,4/22/2020,14%,Transport…
+657,Airy Rooms,Jakarta     Non,,4/22/2020,70%,Travel
+658,Clearbit,SF Bay Area,,4/22/2020,,Data
+659,ExtraHop,Seattle,,4/22/2020,,Security
+660,Nearmap,Sydney     Non,,4/22/2020,10%,Construct…
+661,Swiggy,Bengaluru,800,4/21/2020,,Food
+662,Paytm,New Delhi     N,500,4/21/2020,,Finance
+663,Lending Club,SF Bay Area,460,4/21/2020,30%,Finance
+664,Houzz,SF Bay Area,155,4/21/2020,10%,Consumer
+665,Casper,New York …,78,4/21/2020,21%,Retail
+,,,,,,
+666,Freshbooks,Toronto     No,38,4/21/2020,9%,Finance
+667,Patreon,SF Bay Area,30,4/21/2020,13%,Media
+668,Lambda School,SF Bay Area,19,4/21/2020,,Education
+669,Politico / Protocol,Washingt…,13,4/21/2020,,Media
+670,Bringg,Tel Aviv     No,10,4/21/2020,10%,Logistics
+671,RealSelf,Seattle,,4/21/2020,,Healthcare
+672,Klook,Hong Kong,300,4/20/2020,15%,Travel
+673,ConsenSys,New York …,91,4/20/2020,14%,Crypto
+674,GumGum,Los Angeles,90,4/20/2020,25%,Marketing
+675,Kueski,Guadalajara,90,4/20/2020,30%,Finance
+676,Movidesk,Blumenau     N,33,4/20/2020,25%,Support
+677,Zum,SF Bay Area,28,4/20/2020,,Transport…
+678,Komodo Health,SF Bay Area,23,4/20/2020,9%,Healthcare
+679,Forward,SF Bay Area,10,4/20/2020,3%,Healthcare
+680,Hipcamp,SF Bay Area,,4/20/2020,60%,Travel
+681,Motif Investing,SF Bay Area,,4/18/2020,100%,Finance
+682,BlackBuck,Bengaluru,200,4/17/2020,,Logistics
+683,ContaAzul,Joinville     No,140,4/17/2020,35%,Education
+684,Greenhouse Soft…,New York …,120,4/17/2020,28%,Recruiting
+685,QuintoAndar,Sao Paulo     N,88,4/17/2020,8%,Real Estate
+686,Loft,Sao Paulo     N,47,4/17/2020,10%,Real Estate
+687,Zilingo,Singapore,44,4/17/2020,5%,Retail
+688,Labster,Copenhag…,40,4/17/2020,,Education
+689,Sweetgreen,Los Angeles,35,4/17/2020,10%,Food
+,People.ai,,30,4/17/2020,18%,
+690,,SF Bay Area,,,,Marketing
+691,Tor,Boston,13,4/17/2020,37%,Security
+692,BitGo,SF Bay Area,,4/17/2020,12%,Crypto
+693,Dispatch,Boston,,4/17/2020,38%,Other
+694,Food52,New York …,,4/17/2020,,Food
+695,Influitive,Toronto     No,,4/17/2020,,Marketing
+696,CarGurus,Boston,130,4/16/2020,13%,Transport…
+697,Funding Societies,Singapore,65,4/16/2020,18%,Finance
+698,CleverTap,Mumbai     No,60,4/16/2020,20%,Marketing
+699,CrowdRiff,Toronto     No,,4/16/2020,,Marketing
+700,FullStory,Atlanta,,4/16/2020,,Marketing
+701,Grailed,New York …,,4/16/2020,,Retail
+702,LumenAd,Missoula,,4/16/2020,,Marketing
+703,Purse,SF Bay Area,,4/16/2020,100%,Crypto
+704,SquadVoice,Columbus,,4/16/2020,,Real Estate
+705,Opendoor,SF Bay Area,600,4/15/2020,35%,Real Estate
+706,GoPro,SF Bay Area,200,4/15/2020,20%,Consumer
+707,Shop101,Mumbai     No,200,4/15/2020,40%,Retail
+708,Zume,SF Bay Area,200,4/15/2020,67%,Food
+709,Carta,SF Bay Area,161,4/15/2020,16%,Finance
+710,Akulaku,Jakarta     Non,100,4/15/2020,,Finance
+711,Parsable,SF Bay Area,40,4/15/2020,25%,HR
+712,Kodiak Robotics,SF Bay Area,15,4/15/2020,20%,Transport…
+713,Tulip Retail,Toronto     No,14,4/15/2020,,Retail
+714,Trove Recommer…,SF Bay Area,13,4/15/2020,,Retail
+715,Dude Solutions,Raleigh,,4/15/2020,20%,Other
+716,SweetEscape,Jakarta     Non,,4/15/2020,30%,Consumer
+717,View,SF Bay Area,,4/15/2020,,Energy
+718,The RealReal,SF Bay Area,235,4/14/2020,10%,Retail
+719,TouchBistro,Toronto     No,131,4/14/2020,23%,Food
+720,Envoy,SF Bay Area,58,4/14/2020,30%,HR
+721,VSCO,SF Bay Area,45,4/14/2020,35%,Consumer
+722,Skillz,SF Bay Area,21,4/14/2020,,Consumer
+723,DataStax,SF Bay Area,15,4/14/2020,,Data
+724,Xerpa,Sao Paulo     N,10,4/14/2020,,HR
+725,Aura Financial,SF Bay Area,,4/14/2020,,Finance
+726,RedDoorz,Singapore,,4/14/2020,,Travel
+727,Groupon,Chicago,2800,4/13/2020,44%,Retail
+728,Zoox,SF Bay Area,100,4/13/2020,10%,Transport…
+729,Neon,Sao Paulo     N,70,4/13/2020,10%,Finance
+730,EasyPost,SF Bay Area,50,4/13/2020,25%,Logistics
+731,Clearbanc,Toronto     No,17,4/13/2020,8%,Finance
+732,Meow Wolf,Santa Fe,201,4/10/2020,,Media
+733,Frontdesk,Milwaukee,35,4/10/2020,16%,Travel
+734,BeeTech,Sao Paulo     N,30,4/10/2020,,Finance
+735,Built In,Chicago,28,4/10/2020,,Recruiting
+736,NuoDB,Boston,20,4/10/2020,29%,Data
+737,Rhumbix,SF Bay Area,16,4/10/2020,27%,Construct…
+738,Atsu,Seattle,6,4/10/2020,100%,Infrastruc…
+739,Geekwire,Seattle,5,4/10/2020,31%,Media
+740,FloQast,Los Angeles,,4/10/2020,,Finance
+741,Yelp,SF Bay Area,1000,4/9/2020,17%,Consumer
+742,Monzo,Las Vegas,165,4/9/2020,,Finance
+743,OneTrust,Atlanta,150,4/9/2020,10%,Legal
+744,Omie,Sao Paulo     N,136,4/9/2020,31%,Finance
+745,Domo,Salt Lake …,90,4/9/2020,10%,Data
+746,Matterport,SF Bay Area,90,4/9/2020,34%,Data
+747,Clinc,Ann Arbor,40,4/9/2020,32%,Support
+748,Mejuri,Toronto     No,36,4/9/2020,15%,Retail
+749,Code42,Minneapolis,25,4/9/2020,5%,Data
+750,Lighthouse Labs,Toronto     No,14,4/9/2020,7%,Education
+751,LoopMe,London     No,8,4/9/2020,4%,Marketing
+752,CipherTrace,SF Bay Area,,4/9/2020,,Crypto
+753,Elliptic,London     No,,4/9/2020,30%,Crypto
+754,Zest AI,Los Angeles,,4/9/2020,,Finance
+755,Eventbrite,SF Bay Area,500,4/8/2020,45%,Consumer
+756,Meesho,Bengaluru,200,4/8/2020,28%,Retail
+757,Scoop,SF Bay Area,92,4/8/2020,33%,Transport…
+758,Unison,SF Bay Area,89,4/8/2020,45%,Finance
+759,Lever,SF Bay Area,86,4/8/2020,40%,Recruiting
+760,Unbabel,Lisbon     Non,80,4/8/2020,35%,Support
+761,Button,New York …,48,4/8/2020,35%,Marketing
+762,Eden / Managed …,New York …,40,4/8/2020,40%,Real Estate
+763,Quantcast,SF Bay Area,30,4/8/2020,5%,Marketing
+,BVAccel,,25,4/8/2020,25%,
+764,,San Diego,,,,Marketing
+765,VideoAmp,Los Angeles,21,4/8/2020,10%,Marketing
+766,Kenoby,Sao Paulo     N,18,4/8/2020,16%,Recruiting
+767,Connected,Toronto     No,17,4/8/2020,10%,Product
+768,GetNinjas,Sao Paulo     N,11,4/8/2020,10%,Consumer
+769,Spyce,Boston,4,4/8/2020,12%,Food
+770,Creditas,Sao Paulo     N,,4/8/2020,6%,Finance
+771,Lytics,Portland,,4/8/2020,,Marketing
+772,RedDoorz,Singapore,,4/8/2020,10%,Travel
+773,Slice Labs,New York …,,4/8/2020,,Finance
+774,TechAdvance,Lagos     Non-,,4/8/2020,,Finance
+775,Zola,New York …,,4/8/2020,20%,Retail
+776,Toast,Boston,1300,4/7/2020,50%,Food
+777,ezCater,Boston,400,4/7/2020,44%,Food
+778,Sage Therapeutics,Boston,340,4/7/2020,53%,Healthcare
+779,Redfin,Seattle,236,4/7/2020,7%,Real Estate
+780,Branch Metrics,SF Bay Area,100,4/7/2020,20%,Marketing
+781,Newfront Insuran…,SF Bay Area,94,4/7/2020,,Finance
+782,Ibotta,Denver,87,4/7/2020,15%,Retail
+783,Virta Health,SF Bay Area,65,4/7/2020,,Healthcare
+784,Away,New York …,60,4/7/2020,10%,Retail
+785,MediaMath,New York …,53,4/7/2020,8%,Marketing
+786,Group Nine Media,New York …,50,4/7/2020,7%,Media
+787,Payfactors,Boston,46,4/7/2020,,HR
+788,Nav,Salt Lake …,30,4/7/2020,,Finance
+789,AskNicely,Portland,,4/7/2020,,Support
+790,RainFocus,Salt Lake …,,4/7/2020,,Marketing
+791,Metromile,SF Bay Area,100,4/6/2020,33%,Finance
+792,Rock Content,Belo Horiz…,100,4/6/2020,20%,Marketing
+793,BounceX,New York …,77,4/6/2020,20%,Marketing
+794,C6 Bank,Sao Paulo     N,60,4/6/2020,6%,Finance
+795,Wordstream,Boston,26,4/6/2020,10%,Marketing
+796,Cogito,Boston,24,4/6/2020,14%,Support
+797,BusBud,Montreal     N,23,4/6/2020,32%,Transport…
+798,Borrowell,Toronto     No,15,4/6/2020,20%,Finance
+799,PerkSpot,Chicago,10,4/6/2020,10%,HR
+800,Bitfarms,Quebec     No,,4/6/2020,,Crypto
+801,Hopper,Boston,,4/6/2020,,Travel
+802,Mapbox,Washingt…,,4/6/2020,,Data
+803,Astra,SF Bay Area,40,4/5/2020,25%,Aerospace
+804,Iflix,Kuala Lum…,50,4/4/2020,12%,Consumer
+805,Gympass,Sao Paulo     N,467,4/3/2020,33%,Fitness
+806,Sojern,SF Bay Area,300,4/3/2020,50%,Marketing
+807,MaxMilhas,Belo Horiz…,167,4/3/2020,42%,Travel
+808,Minted,SF Bay Area,147,4/3/2020,37%,Retail
+809,Velodyne Lidar,SF Bay Area,140,4/3/2020,,Transport…
+810,Zoox,SF Bay Area,120,4/3/2020,,Transport…
+811,Traveloka,Jakarta     Non,100,4/3/2020,10%,Travel
+812,Arrive Logistics,Austin,75,4/3/2020,7%,Logistics
+,,,,,,
+813,Salsify,Boston,60,4/3/2020,13%,Retail
+814,Jetty,New York …,35,4/3/2020,40%,Finance
+815,D2iQ,SF Bay Area,34,4/3/2020,13%,Infrastruc…
+816,Bustle Digital Gr…,New York …,24,4/3/2020,8%,Media
+817,Opencare,Toronto     No,18,4/3/2020,25%,Healthcare
+818,Anagram,Los Angeles,17,4/3/2020,,Healthcare
+819,G/O Media Group,New York …,14,4/3/2020,5%,Media
+820,DSCO,Salt Lake …,12,4/3/2020,,Retail
+821,Tripbam,Dallas,10,4/3/2020,25%,Travel
+822,Avantage Enterta…,Minneapolis,5,4/3/2020,20%,Media
+823,Alegion,Austin,,4/3/2020,,Data
+824,AllyO,SF Bay Area,,4/3/2020,,HR
+825,Mews,Prague     Non,,4/3/2020,,Travel
+826,PeopleGrove,SF Bay Area,,4/3/2020,,HR
+827,The Muse,New York …,,4/3/2020,,Recruiting
+828,The Wing,New York …,,4/3/2020,50%,Real Estate
+829,MindBody,San Luis …,700,4/2/2020,35%,Fitness
+830,Katerra,SF Bay Area,240,4/2/2020,3%,Construct…
+831,Ritual,Toronto     No,196,4/2/2020,54%,Food
+832,ClassPass,New York …,154,4/2/2020,22%,Fitness
+833,eGym,Munich     Non,100,4/2/2020,25%,Fitness
+834,Voi,Stockholm,100,4/2/2020,,Transport…
+835,Industrious,New York …,90,4/2/2020,20%,Real Estate
+836,1stdibs,New York …,70,4/2/2020,17%,Retail
+837,ThirdLove,SF Bay Area,65,4/2/2020,30%,Retail
+838,Latch,New York …,60,4/2/2020,,Security
+839,The Predictive In…,Boston,59,4/2/2020,25%,HR
+840,Shuttl,New Delhi     N,40,4/2/2020,,Transport…
+841,Jobcase,Boston,39,4/2/2020,20%,Recruiting
+842,Copper,SF Bay Area,35,4/2/2020,,Marketing
+843,Dynamic Signal,SF Bay Area,35,4/2/2020,19%,HR
+844,FiscalNote,Washingt…,30,4/2/2020,,Media
+845,Sauce Labs,SF Bay Area,30,4/2/2020,15%,Infrastruc…
+846,Humu,SF Bay Area,26,4/2/2020,,HR
+847,TripleLift,New York …,23,4/2/2020,7%,Marketing
+848,Coding Dojo,Seattle,7,4/2/2020,7%,Education
+849,Instamojo,Bengaluru,6,4/2/2020,6%,Finance
+850,Synergysuite,Salt Lake …,5,4/2/2020,7%,Food
+851,Atlanta Tech Villa…,Atlanta,,4/2/2020,50%,Real Estate
+852,Capillary,Bengaluru,,4/2/2020,,Retail
+853,Modsy,SF Bay Area,,4/2/2020,,Retail
+854,The Modist,Dubai     Non-,,4/2/2020,100%,Retail
+855,Wonder,New York …,,4/2/2020,,Other
+856,Booksy,SF Bay Area,200,4/1/2020,,Consumer
+857,Flymya,Yangon     Non,200,4/1/2020,33%,Travel
+858,PatientPop,Los Angeles,100,4/1/2020,20%,Healthcare
+859,Showpad,Chicago,52,4/1/2020,12%,Marketing
+860,Highsnobiety,Berlin     Non-,51,4/1/2020,25%,Media
+861,Earnin,SF Bay Area,50,4/1/2020,20%,Finance
+,,,,,,
+862,Wonolo,SF Bay Area,46,4/1/2020,13%,Recruiting
+863,Acko,Mumbai     No,45,4/1/2020,9%,Finance
+864,Moovel,Portland,28,4/1/2020,37%,Transport…
+865,Aqua Security,Tel Aviv     No,24,4/1/2020,9%,Security
+866,Crayon,Boston,20,4/1/2020,20%,Marketing
+867,Pana,Denver,18,4/1/2020,,Travel
+868,Sensibill,Toronto     No,17,4/1/2020,20%,Finance
+869,Usermind,Seattle,15,4/1/2020,25%,Marketing
+870,Incredible Health,SF Bay Area,9,4/1/2020,40%,Healthcare
+871,Currency,Los Angeles,,4/1/2020,,Finance
+872,GOAT Group,Los Angeles,,4/1/2020,,Retail
+873,Le Tote,SF Bay Area,,4/1/2020,50%,Retail
+874,Levelset,New Orlea…,,4/1/2020,,Construct…
+875,Pebblepost,New York …,,4/1/2020,60%,Marketing
+876,WhyHotel,Washingt…,,4/1/2020,50%,Travel
+877,KeepTruckin,SF Bay Area,349,3/31/2020,18%,Logistics
+878,AdRoll,Salt Lake …,210,3/31/2020,30%,Marketing
+879,Rover,Seattle,194,3/31/2020,41%,Consumer
+880,Turo,SF Bay Area,108,3/31/2020,30%,Transport…
+881,uShip,Austin,65,3/31/2020,37%,Logistics
+882,SkySlope,Sacramento,50,3/31/2020,25%,Real Estate
+883,Siteimprove,Minneapolis,40,3/31/2020,,Marketing
+884,AngelList,SF Bay Area,20,3/31/2020,,Recruiting
+885,Zenoti,Seattle,17,3/31/2020,4%,Fitness
+886,DialSource,Sacramento,5,3/31/2020,14%,Marketing
+887,Adara,SF Bay Area,,3/31/2020,,Travel
+888,Claravine,Salt Lake …,,3/31/2020,,Marketing
+889,Domio,New York …,,3/31/2020,30%,Travel
+890,Kazoo,Austin,,3/31/2020,35%,HR
+891,Snap Finance,Salt Lake …,,3/31/2020,,Finance
+892,Zerto,Boston,,3/31/2020,,Infrastruc…
+893,Thumbtack,SF Bay Area,250,3/30/2020,30%,Consumer
+894,RigUp,Austin,120,3/30/2020,25%,Energy
+895,FabHotels,New Delhi     N,80,3/30/2020,20%,Travel
+896,Hibob,Tel Aviv     No,70,3/30/2020,30%,HR
+897,PeerStreet,Los Angeles,51,3/30/2020,30%,Finance
+898,Maven,Seattle,31,3/30/2020,9%,Media
+899,Blume Global,SF Bay Area,30,3/30/2020,10%,Logistics
+900,Catalant,Boston,30,3/30/2020,,Other
+901,Starship Technol…,Tallin     Non-,30,3/30/2020,,Transport…
+902,Loftsmart,New York …,25,3/30/2020,75%,Real Estate
+903,Caliva,SF Bay Area,20,3/30/2020,,Retail
+904,Iris Nova,New York …,9,3/30/2020,50%,Food
+905,Cuyana,SF Bay Area,,3/30/2020,,Retail
+906,ZipRecruiter,Los Angeles,400,3/29/2020,39%,Recruiting
+907,Amplero,Seattle,17,3/29/2020,100%,Marketing
+908,Polarr,SF Bay Area,10,3/29/2020,,Consumer
+909,TravelTriangle,Gurugram     N,250,3/28/2020,50%,Travel
+910,WeWork,New York …,250,3/28/2020,,Real Estate
+,,,,,,
+911,Rent the Runway,New York …,,3/28/2020,,Retail
+912,OneWeb,London     No,451,3/27/2020,85%,Aerospace
+913,Bird,Los Angeles,406,3/27/2020,30%,Transport…
+914,HOOQ,Singapore,250,3/27/2020,100%,Consumer
+915,Everlane,SF Bay Area,227,3/27/2020,,Retail
+916,DataRobot,Boston,200,3/27/2020,,Data
+917,Restaurant365,Los Angeles,175,3/27/2020,,Food
+918,Blueground,New York …,130,3/27/2020,25%,Real Estate
+919,Knotel,New York …,127,3/27/2020,30%,Real Estate
+920,Getaround,SF Bay Area,100,3/27/2020,25%,Transport…
+921,Zipcar,Boston,100,3/27/2020,20%,Transport…
+922,Mogo,Vancouver,78,3/27/2020,30%,Finance
+923,DISCO,Austin,75,3/27/2020,,Legal
+924,Raken,San Diego,60,3/27/2020,,Construct…
+925,Bench,Vancouver,47,3/27/2020,10%,Finance
+926,Loft,Sao Paulo     N,47,3/27/2020,,Real Estate
+927,Oh My Green,SF Bay Area,40,3/27/2020,,Food
+928,Bevi,Boston,30,3/27/2020,20%,Food
+929,Textio,Seattle,30,3/27/2020,20%,Recruiting
+930,Opal,Portland,20,3/27/2020,,Marketing
+931,ThirdLove,New York …,10,3/27/2020,,Retail
+932,Bcredi,Curitiba     No,,3/27/2020,,Finance
+933,Make School,SF Bay Area,,3/27/2020,,Education
+934,Pivot3,Austin,,3/27/2020,,Infrastruc…
+935,B8ta,SF Bay Area,250,3/26/2020,50%,Retail
+936,Fareportal,Gurugram     N,200,3/26/2020,,Travel
+937,Puppet,Portland,50,3/26/2020,10%,Infrastruc…
+938,Ecobee,Toronto     No,47,3/26/2020,10%,Energy
+939,Passport,Charlotte,44,3/26/2020,,Transport…
+940,Peerspace,SF Bay Area,41,3/26/2020,75%,Real Estate
+941,GoSpotCheck,Denver,23,3/26/2020,20%,Retail
+942,Consider.co,SF Bay Area,13,3/26/2020,100%,Other
+943,Nativo,Los Angeles,,3/26/2020,40%,Marketing
+944,TripActions,SF Bay Area,300,3/25/2020,25%,Travel
+945,Lyric,SF Bay Area,100,3/25/2020,,Real Estate
+946,Rangle,Toronto     No,78,3/25/2020,30%,Product
+947,O'Reilly Media,SF Bay Area,75,3/25/2020,15%,Media
+948,WanderJaunt,SF Bay Area,56,3/25/2020,23%,Travel
+949,OutboundEngine,Austin,52,3/25/2020,28%,Marketing
+950,Wonderschool,SF Bay Area,50,3/25/2020,75%,Education
+951,Overtime,New York …,30,3/25/2020,23%,Media
+952,Jama,Portland,12,3/25/2020,5%,Product
+953,Element Analytics,SF Bay Area,10,3/25/2020,,Data
+954,Clever Real Estate,St. Louis,,3/25/2020,,Real Estate
+955,Clutter,Los Angeles,,3/25/2020,30%,Consumer
+956,Divvy Homes,SF Bay Area,,3/25/2020,8%,Real Estate
+957,Universal Standard,New York …,,3/25/2020,,Retail
+958,Sonder,SF Bay Area,400,3/24/2020,33%,Travel
+959,Takl,Nashville,130,3/24/2020,,Consumer
+960,Foodsby,Minneapolis,87,3/24/2020,67%,Food
+,,,,,,
+961,Zeus Living,SF Bay Area,80,3/24/2020,30%,Real Estate
+962,TravelBank,SF Bay Area,20,3/24/2020,,Travel
+963,Flowr,Toronto     No,,3/24/2020,25%,Retail
+964,Peerfit,Tampa Bay,,3/24/2020,40%,HR
+965,SpotHero,Chicago,,3/24/2020,,Transport…
+966,Compass,New York …,375,3/23/2020,15%,Real Estate
+967,Convene,New York …,150,3/23/2020,18%,Real Estate
+968,Leafly,Seattle,91,3/23/2020,50%,Retail
+969,The Guild,Austin,38,3/23/2020,22%,Travel
+970,Drip,Salt Lake …,20,3/23/2020,,Marketing
+971,GrayMeta,Los Angeles,20,3/23/2020,40%,Data
+972,Triplebyte,SF Bay Area,15,3/23/2020,17%,Recruiting
+973,Ladder Life,SF Bay Area,13,3/23/2020,25%,Finance
+974,Cabin,SF Bay Area,,3/23/2020,20%,Travel
+975,Eight Sleep,New York …,,3/23/2020,20%,Retail
+976,Zwift,Los Angeles,,3/23/2020,,Fitness
+977,Flywheel Sports,New York …,784,3/20/2020,98%,Fitness
+978,Peek,Salt Lake …,45,3/20/2020,,Travel
+979,CTO.ai,Vancouver,30,3/20/2020,50%,Infrastruc…
+980,Yonder,Austin,18,3/20/2020,,Media
+981,Service,Los Angeles,,3/20/2020,100%,Travel
+982,Vacasa,Portland,,3/20/2020,,Travel
+983,Bounce,Bengaluru,120,3/19/2020,,Transport…
+984,Ejento,SF Bay Area,84,3/19/2020,100%,Recruiting
+985,Remote Year,Chicago,50,3/19/2020,50%,Travel
+986,Lola,Boston,34,3/19/2020,,Travel
+987,Anyvision,Tel Aviv     No,,3/19/2020,,Security
+988,Popin,New York …,,3/19/2020,100%,Fitness
+989,Tuft & Needle,Phoenix,,3/19/2020,,Retail
+990,Flytedesk,Boulder,4,3/18/2020,20%,Marketing
+991,Inspirato,Denver,130,3/16/2020,22%,Travel
+992,Help.com,Austin,16,3/16/2020,100%,Support
+993,Service,Los Angeles,,3/16/2020,100%,Travel
+994,HopSkipDrive,Los Angeles,8,3/13/2020,10%,Transport…
+995,Panda Squad,SF Bay Area,6,3/13/2020,75%,Consumer
+996,Tamara Mellon,Los Angeles,20,3/12/2020,40%,Retail
+997,EasyPost,Salt Lake …,75,3/11/2020,,Logistics
+UNIQUE   906,,,SUM   143630,,,
